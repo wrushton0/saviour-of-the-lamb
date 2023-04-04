@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cultist
+  - Terrain
+  - Lamb
+  - Edge
+  - Translucent
+  - Barricade
+  - Bolt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground Tiles
+    uniqueID: 4045234467
+    locked: 0
+  - name: Grass Tiles
+    uniqueID: 645212293
+    locked: 0
+  - name: Gravestone 1
+    uniqueID: 2288755531
+    locked: 0
+  - name: Fence Behind Player
+    uniqueID: 1255945115
+    locked: 0
+  - name: Gravestone 2
+    uniqueID: 3141992951
+    locked: 0
+  - name: Weapon Below Cultist
+    uniqueID: 2510728901
+    locked: 0
+  - name: Cultist
+    uniqueID: 2017923641
+    locked: 0
+  - name: Tank Armour
+    uniqueID: 1865417403
+    locked: 0
+  - name: Weapon Above Cultist
+    uniqueID: 623699409
+    locked: 0
+  - name: Lamb
+    uniqueID: 1914171839
+    locked: 0
+  - name: Bolt
+    uniqueID: 1415746039
+    locked: 0
+  - name: Rock Behind Player
+    uniqueID: 1046597915
+    locked: 0
+  - name: Player Weapon Below
+    uniqueID: 1386384053
+    locked: 0
+  - name: Player
+    uniqueID: 1186490947
+    locked: 0
+  - name: Player Weapon Above
+    uniqueID: 252736179
+    locked: 0
+  - name: Fence In Front of Player
+    uniqueID: 2262262447
+    locked: 0
+  - name: Rock In Front of Player
+    uniqueID: 1417075431
+    locked: 0
+  - name: Building infront of player
+    uniqueID: 1226944251
+    locked: 0
+  - name: Scenery Above Ground Tiles
+    uniqueID: 2832562845
+    locked: 0
+  - name: Scenery Above Ground Tiles 2
+    uniqueID: 648206315
+    locked: 0
+  - name: Clouds
+    uniqueID: 1851165633
+    locked: 0
+  - name: Above Everything
+    uniqueID: 2570933845
+    locked: 0

@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: e6e12c32d6cce164793d2fcf9d0ba535
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2822179714401657442
+    second: Sorcerer_Moving_Grid 1_0
+  - first:
+      213: -1706962424845959617
+    second: Sorcerer_Moving_Grid 1_1
+  - first:
+      213: -4492065224797758475
+    second: Sorcerer_Moving_Grid 1_2
+  - first:
+      213: 7858600103192378648
+    second: Sorcerer_Moving_Grid 1_3
+  - first:
+      213: 3136300794510679799
+    second: Sorcerer_Moving_Grid 1_4
+  - first:
+      213: -5254169401759984838
+    second: Sorcerer_Moving_Grid 1_5
+  - first:
+      213: -1529982605754837233
+    second: Sorcerer_Moving_Grid 1_6
+  - first:
+      213: 3243426385469205060
+    second: Sorcerer_Moving_Grid 1_7
+  - first:
+      213: 8895939561228521287
+    second: Sorcerer_Moving_Grid 1_8
+  - first:
+      213: -3229145667445200098
+    second: Sorcerer_Moving_Grid 1_9
+  - first:
+      213: -8121090882418888313
+    second: Sorcerer_Moving_Grid 1_10
+  - first:
+      213: -4247814914320689550
+    second: Sorcerer_Moving_Grid 1_11
+  - first:
+      213: 5181618591447269800
+    second: Sorcerer_Moving_Grid 1_12
+  - first:
+      213: -7810488476550328226
+    second: Sorcerer_Moving_Grid 1_13
+  - first:
+      213: -5491281554861380333
+    second: Sorcerer_Moving_Grid 1_14
+  - first:
+      213: 6185154839677493654
+    second: Sorcerer_Moving_Grid 1_15
+  - first:
+      213: 5030985771428157088
+    second: Sorcerer_Moving_Grid 1_16
+  - first:
+      213: -7519763996492656954
+    second: Sorcerer_Moving_Grid 1_17
+  - first:
+      213: -4651469330015407566
+    second: Sorcerer_Moving_Grid 1_18
+  - first:
+      213: 1665291987463505223
+    second: Sorcerer_Moving_Grid 1_19
+  - first:
+      213: -2714021769848536858
+    second: Sorcerer_Moving_Grid 1_20
+  - first:
+      213: 8117220994058033905
+    second: Sorcerer_Moving_Grid 1_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 184
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d96c6908a95d8d0800000000000000
+      internalID: -2822179714401657442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 188
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb5b006a7af8a1c0800000000000000
+      internalID: -4492065224797758475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 188
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe959da4f0668b20800000000000000
+      internalID: 3136300794510679799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 184
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339e5254c07517b0800000000000000
+      internalID: -5254169401759984838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_7
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 184
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a6509fc17f20d20800000000000000
+      internalID: 3243426385469205060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 43
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78132ccaed61c4f80800000000000000
+      internalID: -8121090882418888313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 29
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a146c0d7aec8e740800000000000000
+      internalID: 5181618591447269800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 33
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e509fe0cc129b9390800000000000000
+      internalID: -7810488476550328226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 34
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d25d8158c0bc3b0800000000000000
+      internalID: -5491281554861380333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Moving_Grid 1_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 28
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6150067e6a1d540800000000000000
+      internalID: 5030985771428157088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

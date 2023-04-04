@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 703d4051bcb77874d9bf1a08ad735e64
+  - enabled: 1
+    path: Assets/Scenes/Farm.unity
+    guid: e4e62cd1e65d4964cab318f39991b09b
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 7595978c5e5294b43812838ca75c36cd
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: ead7feebc4ee3194bab892e0feaa0e38
+  - enabled: 1
+    path: Assets/Scenes/Lodge Scene.unity
+    guid: bb32e213d447545a5a33fa84135252bf
+  - enabled: 1
+    path: Assets/Scenes/Circle Scene.unity
+    guid: 6ec890c18398f4fb5821610cf1ee84b1
+  - enabled: 1
+    path: Assets/Scenes/Church.unity
+    guid: acff6860090ec5d4e878dda67cc50eb2
+  - enabled: 1
+    path: Assets/Scenes/Farm With Lamb.unity
+    guid: 15390566d5095164796e18caadc23ebd
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 3de7470fe5402c14bbefe081717750dd
+  m_configObjects: {}
